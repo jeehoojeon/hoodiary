@@ -27,7 +27,7 @@ const Home = () => {
         }
     },[data,pivotDate])
     useEffect(()=>{
-        setPageTitle('라라님의 감정일기장');
+        setPageTitle('지후님의 감정일기장');
     },[]);
     return (
         <div>
